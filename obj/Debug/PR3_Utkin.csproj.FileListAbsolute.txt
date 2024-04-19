@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\PR3_Utkin\bin\Debug\PR3_Utkin.exe.config
+C:\Users\student\Desktop\PR3_Utkin\bin\Debug\PR3_Utkin.exe
+C:\Users\student\Desktop\PR3_Utkin\bin\Debug\PR3_Utkin.pdb
+C:\Users\student\Desktop\PR3_Utkin\obj\Debug\PR3_Utkin.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\PR3_Utkin\obj\Debug\PR3_Utkin.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\PR3_Utkin\obj\Debug\PR3_Utkin.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\PR3_Utkin\obj\Debug\PR3_Utkin.exe
+C:\Users\student\Desktop\PR3_Utkin\obj\Debug\PR3_Utkin.pdb
